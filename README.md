@@ -39,6 +39,7 @@ Project ini dibangun dengan **Flutter** menggunakan pendekatan **Feature-First A
   - `intl`: Untuk format mata uang Rupiah (`CurrencyFormatter`).
 
 ### Struktur Folder (Feature-First)
+``` text
 lib/
 ├── core/                    # Logic dasar & konfigurasi global
 │   ├── constants/           # Warna (AppColors) & String statis
